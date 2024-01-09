@@ -1,2 +1,2 @@
 # nginx-nodejs-docker-app
-Dockerizing a Nodejs application with Nginx
+Dockerizing a Nodejs/MySQL application with Nginx
